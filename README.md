@@ -1,7 +1,8 @@
 # Machine-Learning-with-Python
-This repo contains implementations, notes, and experiments with various ML concepts — ranging from simple models to more advanced algorithms.
+This repository contains implementations, notes, and experiments with various ML concepts — ranging from simple models to more advanced algorithms.
 
 ##  Overview
-- Supervised Learning (Regression, Classification)
-- Unsupervised Learning (Clustering, Dimensionality Reduction)
+- Supervised Learning Algorithms (Linear Regression, Logistic Regression, Decision Trees, Support Vector Machines, K Nearest Neighbors, Random Forest and XGBoost)
+- Unsupervised Learning Algorithms (K-Means Clustering, HDBSCAN, DBSCAN, Principal Component Analysis)
 - Neural Networks & Deep Learning
+- Dimension Reduction and Feature Engineering
